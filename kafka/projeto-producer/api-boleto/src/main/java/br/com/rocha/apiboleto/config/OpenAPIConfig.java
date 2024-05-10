@@ -14,7 +14,7 @@ public class OpenAPIConfig {
         return new OpenAPI().info(new Info()
                 .title("API boleto")
                 .description("API de pagamento de boletos")
-                .contact(new Contact().name("Luan Rocha").email("luanbam@hotmail.com"))
+                .contact(new Contact().name("Calebe Werneck Couto").email("calebewerneck@hotmail.com"))
                 .version("1.0.0")
         );
     }
